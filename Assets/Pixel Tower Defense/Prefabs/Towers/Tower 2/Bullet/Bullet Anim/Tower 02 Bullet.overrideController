@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Tower 02 Bullet
+  m_Controller: {fileID: 9100000, guid: 5d1da6ac7a73ad749a08e62d50cc9970, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9e5221c008a882f4a8b3e27edf2676c3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c4d42a4b49bf6140ae7bdf1023c0c35, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf19416441be56742b8ce30fc28b9e25, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bf19416441be56742b8ce30fc28b9e25, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9b565bdbe83c76543bdba37bb2b86a9f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c4d42a4b49bf6140ae7bdf1023c0c35, type: 2}

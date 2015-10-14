@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b66c84d9b2be764d8610a82c13c2db2, type: 3}
+  m_Name: Tower Sell Upgrade Choices
+  m_EditorClassIdentifier: 
+  ChoiceItems:
+  - {fileID: 11413858, guid: 58e53c33287d5c24c8795d3d3e60d6c5, type: 2}
+  - {fileID: 11413858, guid: 2de53cc30ce12ae499d4fd756f3cb9c9, type: 2}
