@@ -1,0 +1,43 @@
+Initialize engine version: 5.1.1p1 (17d6a7a3ab46)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R2 Graphics (ID=0x9852)
+    Vendor:   ATI
+    VRAM:     1010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.448 seconds
+desktop: 1680x1050 60Hz; virtual: 3046x1050 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: V:\PTD Das Konstrukt\ptddaskonstrukt_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 87.732529 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 714.
+Total: 3.007312 ms (FindLiveObjects: 0.344708 ms CreateObjectMapping: 0.064974 ms MarkObjects: 2.296007 ms  DeleteObjects: 0.285889 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 39.028717 ms
+HDR and MultisampleAntiAliasing (in Forward Rendering Path) is not supported. This camera will render without HDR buffers. Disable Antialiasing in the Quality settings if you want to use HDR.
+ 
+(Filename:  Line: 2716)
+
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 1751.
+Total: 4.910050 ms (FindLiveObjects: 1.110044 ms CreateObjectMapping: 0.212023 ms MarkObjects: 3.239853 ms  DeleteObjects: 0.343341 ms)
+
